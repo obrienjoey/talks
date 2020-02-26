@@ -81,7 +81,7 @@ background-image: url("images/cool.png")
       knitr::include_graphics("images/rvest.png")
       ```
 --
-  - ## Python equivalents are _beautifulsoup_ and _requests_.
+  - ## Python equivalents are beautifulsoup and requests.
 
 ---
 
@@ -96,3 +96,25 @@ class: inverse
   * Fantasy Premier League
   
   * High(ish)-Frequency Stock Prices
+  
+---
+class: center
+# **Summary**
+  ## It isn't one-size-fits-all.
+--
+
+  ```{r, echo=FALSE, fig.align="center", out.width='50%'}
+  knitr::include_graphics("images/gran-torino.jpg")
+  ```
+--
+
+  ## 'Take these three items right here. You can have this. WD-40, vise grips, and some duct tape. Any man worth his salt can do half the household chores with just those three things.' Walt Kowalski
+
+---
+
+class: center, middle, inverse
+
+# Thanks!
+
+<br>
+##brienj_
